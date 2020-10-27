@@ -1,7 +1,7 @@
 {
   "name": "Cayman",
   "version": "1.0.0",
-  "homepage": "http://github.com/jasonlong/cayman-theme",
+  "homepage": "http://github.com/yoohwankwon/cayman-theme",
   "author": "Jason Long",
   "scss": "./scss/cayman.scss",
   "devDependencies": {
