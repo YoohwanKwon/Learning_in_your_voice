@@ -1,7 +1,7 @@
 {
   "name": "Cayman",
   "version": "1.0.0",
-  "homepage": "http://github.com/yoohwankwon/cayman-theme",
+  "homepage": "http://github.com/yoohwankwon/Learning_in_your_voice",
   "author": "Jason Long",
   "scss": "./scss/cayman.scss",
   "devDependencies": {
