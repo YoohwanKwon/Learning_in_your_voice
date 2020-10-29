@@ -95,9 +95,9 @@ a {
   word-wrap: break-word; }
   .main-content :first-child {
     margin-top: 0; }
-  @media screen and (min-width: 64em) {
+  @media screen and (min-width: 80em) {
     .main-content {
-      max-width: 64rem;
+      max-width: 80rem;
       padding: 2rem 6rem;
       margin: 0 auto;
       font-size: 1.1rem; } }
